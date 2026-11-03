@@ -5,7 +5,6 @@ I work in healthcare leadership and build small tools on the side: secure, priva
 
 **Reading**
 - **[readrepeat](https://github.com/asturale/readrepeat)**: self-hosted, open-source Readwise alternative
-- **[AnnotationSync.koplugin](https://github.com/asturale/AnnotationSync.koplugin)** (fork): sync KOReader highlights, notes and reading progress across devices
 
 **Health and training**
 - **[stryd-ics](https://github.com/asturale/stryd-ics)**: planned Stryd running workouts as a calendar feed
